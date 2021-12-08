@@ -1,0 +1,5 @@
+START
+	Block = data/TXT/stagebuilding1.txt
+	Enemy = data/TXT/stageenemy1.txt
+	Map = data/MAPS/CSV/Map_001.csv
+END
