@@ -1,0 +1,125 @@
+﻿  ui.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\ui.cpp(80): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [29]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\ui.cpp(80): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  tile.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(183): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [25]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(183): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(185): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [26]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(185): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(187): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [25]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(187): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(189): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [26]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(189): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(191): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [25]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(191): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(193): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [25]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\tile.cpp(193): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  scene3d.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\scene3d.cpp(124): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  scene2d.cpp
+  scene.cpp
+  renderer.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(138): error C2664: 'HRESULT D3DXCreateFontW(LPDIRECT3DDEVICE9,INT,UINT,UINT,UINT,BOOL,DWORD,DWORD,DWORD,DWORD,LPCWSTR,LPD3DXFONT *)': 引数 11 を 'const char [9]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(138): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(141): error C2664: 'HRESULT D3DXCreateFontW(LPDIRECT3DDEVICE9,INT,UINT,UINT,UINT,BOOL,DWORD,DWORD,DWORD,DWORD,LPCWSTR,LPD3DXFONT *)': 引数 11 を 'const char [9]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(141): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(231): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(231): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(234): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(234): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(246): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(246): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(249): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(249): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(253): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(253): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(262): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(262): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(271): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(271): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(281): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(281): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(291): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(291): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(302): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(302): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(305): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(305): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(319): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(319): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(321): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(321): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(324): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(324): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(326): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(326): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(331): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(331): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(342): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(342): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(345): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(345): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(355): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(355): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(358): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(358): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(371): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(371): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(374): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(374): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(378): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(378): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(412): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(412): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(415): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(415): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(434): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(434): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(437): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(437): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(443): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(443): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(453): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 引数 1 を 'char [256]' から 'LPWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(453): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(456): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\renderer.cpp(456): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  model.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\model.cpp(94): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\model.cpp(145): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  mode.cpp
+  manager.cpp
+  main.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\main.cpp(51): error C2440: '初期化中': 'const char [9]' から 'LPCWSTR' に変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\main.cpp(51): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\main.cpp(77): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 引数 2 を 'const char [9]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\main.cpp(77): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\main.cpp(164): error C2664: 'BOOL UnregisterClassW(LPCWSTR,HINSTANCE)': 引数 1 を 'const char [9]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\main.cpp(164): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  light.cpp
+  library.cpp
+  input.cpp
+  game.cpp
+  field.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\field.cpp(117): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  fade.cpp
+  enemy.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\enemy.cpp(131): error C2664: 'HRESULT D3DXLoadMeshFromXW(LPCWSTR,DWORD,LPDIRECT3DDEVICE9,LPD3DXBUFFER *,LPD3DXBUFFER *,LPD3DXBUFFER *,DWORD *,LPD3DXMESH *)': 引数 1 を 'LPCSTR' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\enemy.cpp(131): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\enemy.cpp(134): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\enemy.cpp(134): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  effect3d.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\effect3d.cpp(86): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [27]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\effect3d.cpp(86): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  createstage.cpp
+  camera.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\camera.cpp(64): warning C4244: '引数': 'LONG' から 'FLOAT' への変換です。データが失われる可能性があります。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\camera.cpp(93): warning C4244: '引数': 'LONG' から 'FLOAT' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  コンパイル中...
+  block.cpp
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\block.cpp(132): error C2664: 'HRESULT D3DXLoadMeshFromXW(LPCWSTR,DWORD,LPDIRECT3DDEVICE9,LPD3DXBUFFER *,LPD3DXBUFFER *,LPD3DXBUFFER *,DWORD *,LPD3DXMESH *)': 引数 1 を 'LPCSTR' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\block.cpp(132): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\block.cpp(135): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'char [256]' から 'LPCWSTR' へ変換できません。
+  e:\desktop\class\プログラム\visual_studio_2015\projects\2年\c++\game creation practice\チーム制作\3\havoc toul\havoc toul\block.cpp(135): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  billboard.cpp
+  コードを生成中...
